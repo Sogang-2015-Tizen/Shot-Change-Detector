@@ -1,6 +1,6 @@
 # Shot-Change-Detector
-: It shows the sets of key frames by automatically detecting the Shot boundary in the video. 
-  After showing the video, it can selectively showing only the desired shot.
+It shows the sets of key frames by automatically detecting the Shot boundary in the video. 
+After showing the video, it can selectively showing only the desired shot.
 
 Instruction
 Enter a search button (찾아보기 button)
